@@ -3,4 +3,4 @@
 
  Desafio proposto para fazer o efeito parallax utilizando somente HTML e CSS. 
 
-<a href="https://github.com/ThiagoTorresFerrao/cordel-moderno">Clique Aqui</a> para visualização do site.
+<a href="https://thiagotorresferrao.github.io/cordel-moderno">Clique Aqui</a> para visualização do site.
